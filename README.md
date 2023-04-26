@@ -1,16 +1,27 @@
 # ssl_minor_project
 
-A new Flutter project.
+## Usage
 
-## Getting Started
+To run on your local machine
 
-This project is a starting point for a Flutter application.
+```shell
+$ git clone git@github.com:mayankkumrawat/ssl_minor_project.git
+$ cd ssl_minor_project/
+$ flutter pub get
+$ Select a target device
+$ Click Run > Start Debugging in the main IDE window, or press F5.
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Contributed by
+
+[Lakshya Sharma](https://github.com/joinlooks)  
+[Mayank Kumrawat](https://github.com/mayankkumrawat)  
+[Dhruv Singhal](https://github.com/dhruvsinghal028)
+
+## Guided By
+
+Upendra Singh Sir
+
